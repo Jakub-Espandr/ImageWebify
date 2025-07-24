@@ -1,0 +1,3 @@
+# ImageWebify requirements
+# Requires Python 3.7+
+Pillow>=8.0.0 
